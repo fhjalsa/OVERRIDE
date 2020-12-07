@@ -1,8 +1,8 @@
 # OVERRIDE
 Over Ride selfbot coded in python
 
-This is a selfbot relying on extensions
-Everyone can make an extension
+This is a selfbot relying on extensions, 
+any one can make an extension
 
 # How to install
 
