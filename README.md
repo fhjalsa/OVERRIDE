@@ -2,9 +2,9 @@
 Over Ride selfbot coded in python
 
 This is a selfbot relying on extensions
-everyone can make an extension
+Everyone can make an extension
 
-How to install
+#How to install
 
 Open Config.json
 
