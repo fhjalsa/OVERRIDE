@@ -21,3 +21,7 @@ put your extensions in there
 3. Running the bot
 
 run selfbot.py
+
+# DISCLAIMER!
+
+this is an older version for the newest version join the discord (https://discord.gg/8n5GXWWt)
