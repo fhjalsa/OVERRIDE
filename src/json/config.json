@@ -1,5 +1,5 @@
 {
-    "prefix":">",
-    "token": "token-here",
+    "prefix": "enter prefix here",
+    "token": "enter token here",
     "delete-commands": true
 }

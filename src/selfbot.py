@@ -23,7 +23,7 @@ blue = '\033[1;34;48m'
 cyan = '\033[1;36;48m'
 magenta = '\033[1;35;48m'
 
-with open("./json/config.json", "r") as f:
+with open("./json/config.json", "r", encoding="utf-8") as f:
     config = json.load(f)
 
 token = config["token"]
